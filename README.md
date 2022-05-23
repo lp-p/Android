@@ -1,5 +1,7 @@
 # Android项目
 
+# 联系方式：QQ：1204281706
+
 ## 3DAlbum：3D相册
 
 ![3D相册](/3DAlbum/img/展示.png "Magic Gardens")
@@ -91,3 +93,7 @@
 ## Sqlite：模拟银行转账
 
 ![模拟银行转账](/Sqlite/img/结果.png "Magic Gardens")
+
+## LearnDemo:基于lean开发的app（注册及登录）
+
+## RoomBasic：room的增删改查
