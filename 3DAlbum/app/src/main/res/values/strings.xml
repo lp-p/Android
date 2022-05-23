@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">3D相册</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title1">Girl</string>
+    <string name="title2">Spring Scenery</string>
+    <string name="title3">Summer Scenery</string>
+    <string name="title4">Autumn Scenery</string>
+    <string name="title5">Winter Scenery</string>
+</resources>
